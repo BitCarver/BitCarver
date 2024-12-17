@@ -16,6 +16,7 @@
 ### 📫 How to reach me:
 - **Email:** BitCarverX@gmail.com
 - **X(twitter):** @BitCarverX
+- **LinkedIn:** https://www.linkedin.com/in/austin-a-keisling/
 - **GitHub Discussions/Issues:** Feel free to drop a message here!
 ### ⚡ Fun fact:
 - I'm a Dad to 2 amazing kiddos and Husband to my incredible wife!
