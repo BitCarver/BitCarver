@@ -12,7 +12,7 @@
 ### 🤝 I’m looking to collaborate on:
 - Tech solutions that solve real-world challenges in creative ways.
 - Projects that make a difference in peoples lives.
-- Open-source projects that help spread the Gospel of Jesus Christ to everyone, everywhere!
+- Open-source projects
 ### 📫 How to reach me:
 - **Email:** BitCarverX@gmail.com
 - **X(twitter):** @BitCarverX
