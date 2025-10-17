@@ -6,9 +6,9 @@
 - ARPG's such as Project Diablo 2 and Path of Exile!
 ### 🌱 I’m currently learning:
 - Advanced TypeScript techniques and performance optimization.
-- Developing iOS and web apps with a focus on user-first design.
-- Diving deeper into backend technologies and scalable architectures.
-- Studying for IT Certifications. Currently working on CompTIA A+ with plans to get Network+ and Security+ soon!
+- Experimenting with Linux.
+- Expanding on my Cloud knowledge by creating AWS projects!
+- Studying for IT Certifications. Currently AWS Certified Cloud Practioner Certified! Now on to Certified Solutions Architect!
 ### 🤝 I’m looking to collaborate on:
 - Tech solutions that solve real-world challenges in creative ways.
 - Projects that make a difference in peoples lives.
